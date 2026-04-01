@@ -159,6 +159,13 @@ copy_templates() {
       NEW_PPTX="_NEW_SLIDE_lv"
       NEW_PDFF="_NEW_FORM_lv"
       ;;
+    lt_* )
+      TEMPLATE_LANG="lt-LT"
+      NEW_DOCX="_NEW_WORD_lt"
+      NEW_XLSX="_NEW_CELL_lt"
+      NEW_PPTX="_NEW_SLIDE_lt"
+      NEW_PDFF="_NEW_FORM_lt"
+      ;;
     nb_* )
       TEMPLATE_LANG="nb-NO"
       NEW_DOCX="_NEW_WORD_nb"
