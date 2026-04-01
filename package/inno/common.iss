@@ -128,7 +128,7 @@ Name: cs; MessagesFile: compiler:Languages\Czech.isl;
 Name: el; MessagesFile: compiler:Languages\Greek.isl;
 ;Name: et; MessagesFile: compiler:Languages\Estonian.isl;
 Name: fi; MessagesFile: compiler:Languages\Finnish.isl;
-;Name: lt; MessagesFile: compiler:Languages\Lithuanian.isl;
+Name: lt; MessagesFile: compiler:Languages\Lithuanian.isl;
 Name: lo; MessagesFile: compiler:Default.isl;
 Name: nl; MessagesFile: compiler:Languages\Dutch.isl;
 Name: de; MessagesFile: compiler:Languages\German.isl;
