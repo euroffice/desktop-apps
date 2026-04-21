@@ -119,5 +119,7 @@ l10n.lt = {
     settOptDescAUpdateSilent: "Atsisiųsti naujinimus ir klausti prieš įdiegiant",
     settOptDescAUpdateAsk: "Jums bus pranešta apie visus atnaujinimo žingsnius",
     settGpuUseMode: "Kai įmanoma, naudokite grafinį pagreitį",
+    labelDropFile: 'Įkelkite failus čia arba',
+    labelSelectFile: 'Pasirinkite failą',
     settUseAI: 'Naudokite dirbtinio intelekto funkcijas',
 }
